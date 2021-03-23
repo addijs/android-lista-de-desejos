@@ -58,8 +58,8 @@
         android:layout_height="match_parent">
 
         <Button
-            android:id="@+id/btnCadastrar"
-            android:text="Cadastrar"
+            android:id="@+id/btnSalvar"
+            android:text="Salvar"
             android:backgroundTint="@color/green"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content" />
